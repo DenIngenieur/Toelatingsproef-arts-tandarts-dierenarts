@@ -6,7 +6,7 @@ Deze PDF's horen bij de respectievelijke video's op YouTube.
 
 ## Arts ##
 ### 2020 ###
-* Chemie: https://www.youtube.com/watch?v=ZA_o2OAHDRg
+* Chemie: <https://www.youtube.com/watch?v=ZA_o2OAHDRg>
 * Fysica: https://www.youtube.com/watch?v=c4ZOn-zDcZM
 * Wiskunde: https://www.youtube.com/watch?v=wcf-kvMvMtI
 
