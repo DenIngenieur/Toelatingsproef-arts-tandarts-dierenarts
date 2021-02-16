@@ -36,4 +36,9 @@ Deze [PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts "PDF'
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
 
 ## Bekijk ook ##
-[Geen tekort aan ingenieurs](http://geentekortaaningenieurs.be "Geen tekort aan ingenieurs")
+* [Geen tekort aan ingenieurs](http://geentekortaaningenieurs.be "Geen tekort aan ingenieurs")
+* [Just The Engineer](https://justtheengineer.eu/ "Just The Engineer")
+* [ROL](https://rol.be/ "ROL")
+* [At The Web Shop](https://attheweb.shop/ "At The Web Shop")
+
+
