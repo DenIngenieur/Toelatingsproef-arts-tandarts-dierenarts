@@ -1,10 +1,8 @@
 # Toelatingsproef arts/tandarts #
 
-Een bespreking van mijn oplossingen voor het toelatingsexamen voor arts en tandarts. 
+Deze PDF's horen bij de respectievelijke video's op YouTube van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
 
-Deze PDF's horen bij de respectievelijke video's op YouTube. 
-
-## Arts ##
+## Videos arts ##
 ### 2020 ###
 * Chemie: https://www.youtube.com/watch?v=ZA_o2OAHDRg
 * Fysica: https://www.youtube.com/watch?v=c4ZOn-zDcZM
@@ -20,7 +18,7 @@ Deze PDF's horen bij de respectievelijke video's op YouTube.
 * Fysica: https://www.youtube.com/watch?v=J0rB9I6UP4k
 * Wiskunde: https://www.youtube.com/watch?v=f2ATM_U4QU0
 
-## Tandarts ##
+## Videos tandarts ##
 ### 2020 ###
 * Chemie: https://www.youtube.com/watch?v=wgCUy-gBJUI
 * Fysica: https://www.youtube.com/watch?v=uGw8VPeDD9Y
