@@ -35,3 +35,5 @@ Deze [PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts "PDF'
 ## Officieel ##
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
 
+## Bekijk ook ##
+[Geen tekort aan ingenieurs](http://geentekortaaningenieurs.be "Geen tekort aan ingenieurs")
