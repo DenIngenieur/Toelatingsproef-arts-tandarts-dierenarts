@@ -1,8 +1,6 @@
 # Toelatingsproef arts/tandarts #
 
-Een bespreking van mijn oplossingen voor het toelatingsexamen voor arts en tandarts. 
-
-Deze PDF's horen bij de respectievelijke video's op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal").
+Deze PDF's horen bij de respectievelijke video's op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal") van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
 
 ## Videos arts ##
 ### 2020 ###
