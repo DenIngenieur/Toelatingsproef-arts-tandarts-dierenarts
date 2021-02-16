@@ -6,35 +6,35 @@ Deze PDF's horen bij de respectievelijke video's op YouTube.
 
 ## Arts ##
 ### 2020 ###
-* Chemie: [Arts Chemie 2020](https://www.youtube.com/watch?v=ZA_o2OAHDRg)
-* Fysica: https://www.youtube.com/watch?v=c4ZOn-zDcZM
-* Wiskunde: https://www.youtube.com/watch?v=wcf-kvMvMtI
+* Chemie: [Arts Chemie 2020](https://www.youtube.com/watch?v=ZA_o2OAHDRg "Arts Chemie 2020")
+* Fysica: [Arts Fysica 2020](https://www.youtube.com/watch?v=c4ZOn-zDcZM "Arts Fysica 2020")
+* Wiskunde: [Arts Wiskunde 2020](https://www.youtube.com/watch?v=wcf-kvMvMtI "Arts Wiskunde 2020")
 
 ### 2019 ###
-* Chemie: https://www.youtube.com/watch?v=BtiAuvGpcEk
-* Fysica: https://www.youtube.com/watch?v=eZY3kPjS_AA
-* Wiskunde: https://www.youtube.com/watch?v=JeTOu_F4HVo
+* Chemie: [Arts Chemie 2019](https://www.youtube.com/watch?v=BtiAuvGpcEk "Arts Chemie 2019")
+* Fysica: [Arts Fysica 2019](https://www.youtube.com/watch?v=eZY3kPjS_AA "Arts Fysica 2019")
+* Wiskunde: [Arts Wiskunde 2019](https://www.youtube.com/watch?v=JeTOu_F4HVo "Arts Wiskunde 2019")
 
 ### 2018 ###
-* Chemie: https://www.youtube.com/watch?v=LeSFFfWP2yI
-* Fysica: https://www.youtube.com/watch?v=J0rB9I6UP4k
-* Wiskunde: https://www.youtube.com/watch?v=f2ATM_U4QU0
+* Chemie: [Arts Chemie 2018](https://www.youtube.com/watch?v=LeSFFfWP2yI "Arts Chemie 2018")
+* Fysica: [Arts Fysica 2018](https://www.youtube.com/watch?v=J0rB9I6UP4k "Arts Fysica 2018")
+* Wiskunde: [Arts Wiskunde 2018](https://www.youtube.com/watch?v=f2ATM_U4QU0 "Arts Wiskunde 2018")
 
 ## Tandarts ##
 ### 2020 ###
-* Chemie: https://www.youtube.com/watch?v=wgCUy-gBJUI
-* Fysica: https://www.youtube.com/watch?v=uGw8VPeDD9Y
-* Wiskunde: https://www.youtube.com/watch?v=vM7dFZBJLkM
+* Chemie: [Tandarts Chemie 2020](https://www.youtube.com/watch?v=wgCUy-gBJUI "Tandarts Chemie 2020")
+* Fysica: [Tandarts Fysica 2020](https://www.youtube.com/watch?v=uGw8VPeDD9Y "Tandarts Fysica 2020")
+* Wiskunde: [Tandarts Wiskunde 2020](https://www.youtube.com/watch?v=vM7dFZBJLkM "Tandarts Wiskunde 2020")
 
 ### 2019 ###
-* Chemie: https://www.youtube.com/watch?v=oRuhYKW34sk
-* Fysica: https://www.youtube.com/watch?v=F-LRhO-CYkM
-* Wiskunde: https://www.youtube.com/watch?v=ro6chBim2ic
+* Chemie: [Tandarts Chemie 2019](https://www.youtube.com/watch?v=oRuhYKW34sk "Tandarts Chemie 2019")
+* Fysica: [Tandarts Fysica 2019](https://www.youtube.com/watch?v=F-LRhO-CYkM "Tandarts Fysica 2019")
+* Wiskunde: [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=ro6chBim2ic "Tandarts Wiskunde 2019")
 
 ### 2018 ###
-* Chemie: https://www.youtube.com/watch?v=6wW8XPvIovE
-* Fysica: https://www.youtube.com/watch?v=Cqq2Sb7VJZI
-* Wiskunde: https://www.youtube.com/watch?v=bhtl4g6rasA
+* Chemie: [Tandarts Chemie 2018](https://www.youtube.com/watch?v=6wW8XPvIovE "Tandarts Chemie 2018")
+* Fysica: [Tandarts Fysica 2018](https://www.youtube.com/watch?v=Cqq2Sb7VJZI "Tandarts Fysica 2018")
+* Wiskunde: [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=bhtl4g6rasA "Tandarts Wiskunde 2018")
 
 ## Officieel ##
 U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
