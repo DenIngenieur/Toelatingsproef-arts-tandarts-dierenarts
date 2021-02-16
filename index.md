@@ -1,6 +1,6 @@
 # Toelatingsproef arts/tandarts #
 
-Deze PDF's horen bij de respectievelijke video's op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal") van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
+Deze [PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts "PDF's") horen bij de respectievelijke video's op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal") van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
 
 ## Videos arts ##
 ### 2020 ###
@@ -35,4 +35,5 @@ Deze PDF's horen bij de respectievelijke video's op [mijn YouTube kanaal](https:
 * [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=bhtl4g6rasA "Tandarts Wiskunde 2018")
 
 ## Officieel ##
-U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
+U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
+
