@@ -40,7 +40,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos arts + tandarts ##
 ### 2017 ###
-* Wiskunde: https://www.youtube.com/watch?v=JUHmZxdHHps
+* Wiskunde juli: https://www.youtube.com/watch?v=JUHmZxdHHps
 
 ## Officieel ##
 U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
