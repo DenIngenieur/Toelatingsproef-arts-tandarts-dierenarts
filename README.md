@@ -38,6 +38,10 @@ Oh ja, 't is natuurlijk __gratis__.
 * Fysica: https://www.youtube.com/watch?v=Cqq2Sb7VJZI
 * Wiskunde: https://www.youtube.com/watch?v=bhtl4g6rasA
 
+## Videos arts + tandarts ##
+### 2017 ###
+* Wiskunde: https://www.youtube.com/watch?v=JUHmZxdHHps
+
 ## Officieel ##
 U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
 
