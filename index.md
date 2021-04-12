@@ -36,6 +36,12 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 * [Tandarts Fysica 2018](https://www.youtube.com/watch?v=Cqq2Sb7VJZI "Tandarts Fysica 2018")
 * [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=bhtl4g6rasA "Tandarts Wiskunde 2018")
 
+
+## Videos arts + tandarts ##
+### 2017 ###
+* [Wiskunde juni 2017](https://www.youtube.com/watch?v=JUHmZxdHHps "Wiskunde juni 2017")
+
+
 ## Officieel ##
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
 
