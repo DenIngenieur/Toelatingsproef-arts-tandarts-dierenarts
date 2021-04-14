@@ -40,8 +40,8 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 ## Videos arts + tandarts ##
 ### 2017 ###
 * [Wiskunde juni 2017](https://www.youtube.com/watch?v=JUHmZxdHHps "Wiskunde juni 2017")
-
-
+* [Wiskunde augustus 2017](https://www.youtube.com/watch?v=kRM19Td-2IE "Wiskunde augustus 2017")
+ 
 ## Officieel ##
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
 
