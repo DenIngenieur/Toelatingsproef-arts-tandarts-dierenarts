@@ -45,6 +45,10 @@ Oh ja, 't is natuurlijk __gratis__.
 * Fysica augustus: https://youtu.be/oeGDQ9aG71Y
 * Wiskunde augustus: https://www.youtube.com/watch?v=kRM19Td-2IE
 
+### 2016 ###
+* Wiskunde juli: https://www.youtube.com/watch?v=BOmUlv_tuqE
+
+
 ## Officieel ##
 U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
 
