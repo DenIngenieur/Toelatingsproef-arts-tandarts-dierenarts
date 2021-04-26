@@ -43,7 +43,11 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 * [Wiskunde juli 2017](https://www.youtube.com/watch?v=JUHmZxdHHps "Wiskunde juli 2017")
 * [Fysica augustus 2017](https://youtu.be/oeGDQ9aG71Y "Fysica augustus2017")
 * [Wiskunde augustus 2017](https://www.youtube.com/watch?v=kRM19Td-2IE "Wiskunde augustus 2017")
- 
+
+
+### 2016 ###
+* [Wiskunde juli 2016]https://www.youtube.com/watch?v=BOmUlv_tuqE "Wiskunde juli 2016")
+
 ## Officieel ##
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
 
