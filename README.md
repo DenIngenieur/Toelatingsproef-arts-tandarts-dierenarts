@@ -47,6 +47,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ### 2016 ###
 * Wiskunde juli: https://www.youtube.com/watch?v=BOmUlv_tuqE
+* Wiskunde augustus: https://youtu.be/TrOIpspJjU4
 
 
 ## Officieel ##
