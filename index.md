@@ -47,6 +47,8 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ### 2016 ###
 * [Wiskunde juli 2016](https://www.youtube.com/watch?v=BOmUlv_tuqE "Wiskunde juli 2016")
+* [Wiskunde augustus 2016](https://youtu.be/TrOIpspJjU4 "Wiskunde augustus 2016")
+
 
 ## Officieel ##
 U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
