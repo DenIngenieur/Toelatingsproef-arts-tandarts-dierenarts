@@ -51,6 +51,8 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ### 2015 ###
 * Wiskunde juli: https://youtu.be/aD8kVFYSjpM
+* Wiskunde augustus: https://youtu.be/z3hjDFC--zo
+
 
 ## Officieel ##
 U kunt de vragen vinden op: https://www.toelatingsexamenartstandarts.be/examenvragen
