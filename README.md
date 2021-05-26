@@ -54,6 +54,7 @@ Oh ja, 't is natuurlijk __gratis__.
 ### 2015 ###
 * Fysica juli: https://youtu.be/l-TFv0L0mug
 * Wiskunde juli: https://youtu.be/aD8kVFYSjpM
+* Fysica augustus: https://www.youtube.com/watch?v=9i1aAbqYIq4
 * Wiskunde augustus: https://youtu.be/z3hjDFC--zo
 
 
