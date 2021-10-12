@@ -39,6 +39,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos arts + tandarts ##
 ### 2017 ###
+* [Chemie juli 2017](https://www.youtube.com/watch?v=4F-9UTg2vWw "Chemie juli 2017")
 * [Fysica juli 2017](https://www.youtube.com/watch?v=uaIr4tvtbVM "Fysica juli 2017")
 * [Wiskunde juli 2017](https://www.youtube.com/watch?v=JUHmZxdHHps "Wiskunde juli 2017")
 * [Fysica augustus 2017](https://youtu.be/oeGDQ9aG71Y "Fysica augustus2017")
