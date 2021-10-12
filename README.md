@@ -40,6 +40,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos arts + tandarts ##
 ### 2017 ###
+* Chemie juli: https://www.youtube.com/watch?v=4F-9UTg2vWw
 * Fysica juli: https://www.youtube.com/watch?v=uaIr4tvtbVM
 * Wiskunde juli: https://www.youtube.com/watch?v=JUHmZxdHHps
 * Fysica augustus: https://youtu.be/oeGDQ9aG71Y
