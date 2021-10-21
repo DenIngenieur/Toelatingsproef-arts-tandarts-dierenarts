@@ -51,6 +51,7 @@ Oh ja, 't is natuurlijk __gratis__.
 * Chemie juli: https://youtu.be/0yGMjbp8Rt4
 * Fysica juli: https://youtu.be/T2pd1LFuBoI
 * Wiskunde juli: https://www.youtube.com/watch?v=BOmUlv_tuqE
+* Chemie augustus: https://www.youtube.com/watch?v=eA0ra3uwLzM
 * Fysica augustus: https://youtu.be/y80pMb191Z8
 * Wiskunde augustus: https://youtu.be/TrOIpspJjU4
 
