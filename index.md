@@ -50,6 +50,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 * [Chemie juli 2016](https://youtu.be/0yGMjbp8Rt4 "Chemie juli 2016")
 * [Fysica juli 2016](https://youtu.be/T2pd1LFuBoI "Fysica juli 2016")
 * [Wiskunde juli 2016](https://www.youtube.com/watch?v=BOmUlv_tuqE "Wiskunde juli 2016")
+* [Chemie augustus 2016](https://www.youtube.com/watch?v=eA0ra3uwLzM "Chemie augustus 2016")
 * [Fysica augustus 2016](https://youtu.be/y80pMb191Z8 "Fysica augustus 2016")
 * [Wiskunde augustus 2016](https://youtu.be/TrOIpspJjU4 "Wiskunde augustus 2016")
 
