@@ -5,6 +5,10 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
  Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos arts ##
+### 2021 ###
+* [Arts Fysica 2021](https://www.youtube.com/watch?v=QIWT5ofcVJk "Arts Fysica 2021")
+* [Arts Wiskunde 2021](https://www.youtube.com/watch?v=OVzYNE92neA "Arts Wiskunde 2021")
+
 ### 2020 ###
 * [Arts Chemie 2020](https://www.youtube.com/watch?v=ZA_o2OAHDRg "Arts Chemie 2020")
 * [Arts Fysica 2020](https://www.youtube.com/watch?v=c4ZOn-zDcZM "Arts Fysica 2020")
