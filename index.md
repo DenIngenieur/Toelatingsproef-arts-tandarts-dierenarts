@@ -26,7 +26,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos tandarts ##
 ### 2021 ###
-* [Tandarts Fysica 2021]( "Tandarts Fysica 2021")
+* [Tandarts Fysica 2021](https://youtu.be/DZ5E_P6j3SI "Tandarts Fysica 2021")
 * [Tandarts Wiskunde 2021](https://www.youtube.com/watch?v=FqLXDuOzJTY "Tandarts Wiskunde 2021")
 
 ### 2020 ###
