@@ -27,6 +27,10 @@ Oh ja, 't is natuurlijk __gratis__.
 * Wiskunde: https://www.youtube.com/watch?v=f2ATM_U4QU0
 
 ## Videos tandarts ##
+### 2021 ###
+* Fysica: 
+* Wiskunde: https://www.youtube.com/watch?v=FqLXDuOzJTY
+
 ### 2020 ###
 * Chemie: https://www.youtube.com/watch?v=wgCUy-gBJUI
 * Fysica: https://www.youtube.com/watch?v=uGw8VPeDD9Y
