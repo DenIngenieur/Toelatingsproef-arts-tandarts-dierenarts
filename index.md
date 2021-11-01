@@ -25,6 +25,10 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 * [Arts Wiskunde 2018](https://www.youtube.com/watch?v=f2ATM_U4QU0 "Arts Wiskunde 2018")
 
 ## Videos tandarts ##
+### 2021 ###
+* [Tandarts Fysica 2021]( "Tandarts Fysica 2021")
+* [Tandarts Wiskunde 2021](https://www.youtube.com/watch?v=FqLXDuOzJTY "Tandarts Wiskunde 2021")
+
 ### 2020 ###
 * [Tandarts Chemie 2020](https://www.youtube.com/watch?v=wgCUy-gBJUI "Tandarts Chemie 2020")
 * [Tandarts Fysica 2020](https://www.youtube.com/watch?v=uGw8VPeDD9Y "Tandarts Fysica 2020")
