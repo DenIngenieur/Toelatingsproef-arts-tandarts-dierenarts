@@ -6,6 +6,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos arts ##
 ### 2021 ###
+* [Arts Chemie 2021](https://youtu.be/S7RnowRCe7s "Arts Chemie 2021")
 * [Arts Fysica 2021](https://www.youtube.com/watch?v=QIWT5ofcVJk "Arts Fysica 2021")
 * [Arts Wiskunde 2021](https://www.youtube.com/watch?v=OVzYNE92neA "Arts Wiskunde 2021")
 
@@ -26,6 +27,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos tandarts ##
 ### 2021 ###
+* [Tandarts Chemie 2021](https://www.youtube.com/watch?v=FRV_-VGbKcE "Tandarts Chemie 2021")
 * [Tandarts Fysica 2021](https://youtu.be/DZ5E_P6j3SI "Tandarts Fysica 2021")
 * [Tandarts Wiskunde 2021](https://www.youtube.com/watch?v=FqLXDuOzJTY "Tandarts Wiskunde 2021")
 
