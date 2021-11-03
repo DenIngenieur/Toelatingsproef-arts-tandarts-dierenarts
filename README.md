@@ -8,6 +8,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos arts ##
 ### 2021 ###
+* Chemie: https://youtu.be/S7RnowRCe7s
 * Fysica: https://www.youtube.com/watch?v=QIWT5ofcVJk
 * Wiskunde: https://www.youtube.com/watch?v=OVzYNE92neA
 
@@ -28,6 +29,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos tandarts ##
 ### 2021 ###
+* Chemie: https://www.youtube.com/watch?v=FRV_-VGbKcE
 * Fysica: https://youtu.be/DZ5E_P6j3SI
 * Wiskunde: https://www.youtube.com/watch?v=FqLXDuOzJTY
 
