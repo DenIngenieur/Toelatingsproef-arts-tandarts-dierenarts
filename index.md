@@ -27,7 +27,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos tandarts ##
 ### 2022 ###
-* [Tandarts Chemie 2022]() 
+* [Tandarts Chemie 2022]
 * [Tandarts Fysica 2022](https://youtu.be/55GkDMIVlZE "Tandarts Fysica 2022")
 * [Tandarts Wiskunde 2022](https://youtu.be/To-IArnudRI "Tandarts Wiskunde 2022")
 
