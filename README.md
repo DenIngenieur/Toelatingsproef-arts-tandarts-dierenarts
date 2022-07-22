@@ -7,6 +7,11 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 Oh ja, 't is natuurlijk __gratis__. 
 
 ## Videos arts ##
+### 2022 ###
+* Chemie: 
+* Fysica: 
+* Wiskunde: 
+
 ### 2021 ###
 * Chemie: https://youtu.be/S7RnowRCe7s
 * Fysica: https://www.youtube.com/watch?v=QIWT5ofcVJk
@@ -28,6 +33,11 @@ Oh ja, 't is natuurlijk __gratis__.
 * Wiskunde: https://www.youtube.com/watch?v=f2ATM_U4QU0
 
 ## Videos tandarts ##
+### 2022 ###
+* Chemie: 
+* Fysica: https://youtu.be/55GkDMIVlZE
+* Wiskunde: https://youtu.be/To-IArnudRI
+
 ### 2021 ###
 * Chemie: https://www.youtube.com/watch?v=FRV_-VGbKcE
 * Fysica: https://youtu.be/DZ5E_P6j3SI
