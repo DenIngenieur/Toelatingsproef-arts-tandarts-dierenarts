@@ -9,8 +9,8 @@ Oh ja, 't is natuurlijk __gratis__.
 ## Videos arts ##
 ### 2022 ###
 * Chemie: 
-* Fysica: 
-* Wiskunde: 
+* Fysica: https://youtu.be/Rf0My7q3G-A
+* Wiskunde: https://youtu.be/hqPL1VDSbo0
 
 ### 2021 ###
 * Chemie: https://youtu.be/S7RnowRCe7s
