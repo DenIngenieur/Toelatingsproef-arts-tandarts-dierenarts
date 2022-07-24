@@ -6,6 +6,11 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 ## Videos arts ##
 ### 2021 ###
+* [Arts Chemie 2022]
+* [Arts Fysica 2022](https://youtu.be/Rf0My7q3G-A "Arts Fysica 2022")
+* [Arts Wiskunde 2022](https://youtu.be/hqPL1VDSbo0 "Arts Wiskunde 2022")
+
+### 2021 ###
 * [Arts Chemie 2021](https://youtu.be/S7RnowRCe7s "Arts Chemie 2021")
 * [Arts Fysica 2021](https://www.youtube.com/watch?v=QIWT5ofcVJk "Arts Fysica 2021")
 * [Arts Wiskunde 2021](https://www.youtube.com/watch?v=OVzYNE92neA "Arts Wiskunde 2021")
