@@ -5,7 +5,7 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
  Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos arts ##
-### 2021 ###
+### 2022 ###
 * [Arts Chemie 2022]
 * [Arts Fysica 2022](https://youtu.be/Rf0My7q3G-A "Arts Fysica 2022")
 * [Arts Wiskunde 2022](https://youtu.be/hqPL1VDSbo0 "Arts Wiskunde 2022")
