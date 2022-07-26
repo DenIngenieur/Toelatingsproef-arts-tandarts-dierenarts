@@ -34,7 +34,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ## Videos tandarts ##
 ### 2022 ###
-* Chemie: 
+* Chemie: https://youtu.be/Mp4z40LV1rw
 * Fysica: https://youtu.be/55GkDMIVlZE
 * Wiskunde: https://youtu.be/To-IArnudRI
 
