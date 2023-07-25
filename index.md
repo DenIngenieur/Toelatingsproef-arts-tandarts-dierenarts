@@ -1,90 +1,64 @@
-Deze __[PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts "PDF's")__ horen bij de respectievelijke videos - op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal") - van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
+Deze __[PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts "PDF's")__ horen bij de respectievelijke videos - op [mijn YouTube kanaal](https://www.youtube.com/channel/UCQNHfLb5Uia57Tb1SZ-tzpw "mijn YouTube kanaal") - van mijn oplossingen voor het toelatingsexamen voor arts en tandarts, en sinds 2023 ook die van voor dierenearts.
 
 ## Forum ##
 Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts/discussions/ "forum")__ beschikbaar voor het geval je vragen, opmerkingen of ideeën hebt, of gewoon eens je hart wil luchten. Je moet wel een GitHub account hebben om te kunnen deelnemen op het forum. Dat is sowieso een goed idee, want dat laat je toe al je belangrijk werk automatisch te backuppen en het voegt ook nog eens versiebeheer toe (wikipedia over [versiebeheer](https://nl.wikipedia.org/wiki/Versiebeheersysteem "versiebeheer")). Dus geen paniek als je pc of laptop opeens beslist om het op te geven, je belangrijk project is niet voorgoed verdwenen. 
  Oh ja, 't is natuurlijk __gratis__.
 
-## Videos arts ##
+
+## Videos vanaf 2018 - gescheiden proef ##
 ### 2022 ###
-* [Arts Chemie 2022](https://youtu.be/APRzwRXdFyU "Arts Chemie 2022")
-* [Arts Fysica 2022](https://youtu.be/Rf0My7q3G-A "Arts Fysica 2022")
-* [Arts Wiskunde 2022](https://youtu.be/hqPL1VDSbo0 "Arts Wiskunde 2022")
+* [Chemie] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcta2w8Flqat6iR3x1fxJSy "Chemie")
+* [Fysica] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Te0NyjqzWrPlRnFeYodzoqc "Fysica")
+* [Wiskunde] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TdCJu0q4NNdnliWiyReBJ0A "Wiskunde")
 
 ### 2021 ###
-* [Arts Chemie 2021](https://youtu.be/S7RnowRCe7s "Arts Chemie 2021")
-* [Arts Fysica 2021](https://www.youtube.com/watch?v=QIWT5ofcVJk "Arts Fysica 2021")
-* [Arts Wiskunde 2021](https://www.youtube.com/watch?v=OVzYNE92neA "Arts Wiskunde 2021")
+* [Chemie] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc8WXKc3f_3KCVOTx0rbpg7 "Chemie")
+* [Fysica] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdv4fXHXn3BKuwfMDTECuEP "Fysica")
+* [Wiskunde] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TczqQO9ugozVffGpGDVv-oD "Wiskunde")
 
 ### 2020 ###
-* [Arts Chemie 2020](https://www.youtube.com/watch?v=ZA_o2OAHDRg "Arts Chemie 2020")
-* [Arts Fysica 2020](https://www.youtube.com/watch?v=c4ZOn-zDcZM "Arts Fysica 2020")
-* [Arts Wiskunde 2020](https://www.youtube.com/watch?v=wcf-kvMvMtI "Arts Wiskunde 2020")
+* [Chemie] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdbw01K_UC86o4XEMOBtfwv "Chemie")
+* [Fysica] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc6o5ERxUv77lU0bTElO7-q "Fysica")
+* [Wiskunde] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Te84wHyMpQUE7y4_GREO29A "Wiskunde")
 
 ### 2019 ###
-* [Arts Chemie 2019](https://www.youtube.com/watch?v=BtiAuvGpcEk "Arts Chemie 2019")
-* [Arts Fysica 2019](https://www.youtube.com/watch?v=eZY3kPjS_AA "Arts Fysica 2019")
-* [Arts Wiskunde 2019](https://www.youtube.com/watch?v=JeTOu_F4HVo "Arts Wiskunde 2019")
+* [Chemie] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Teo6P8dAoXSkQXTX2v8hjbj "Chemie")
+* [Fysica] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tf5QHLsvINR2nkouwRZYqBr "Fysica")
+* [Wiskunde] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Teh1Gkge9mJDmudJbmBAR9G "Wiskunde")
 
 ### 2018 ###
-* [Arts Chemie 2018](https://www.youtube.com/watch?v=LeSFFfWP2yI "Arts Chemie 2018")
-* [Arts Fysica 2018](https://www.youtube.com/watch?v=J0rB9I6UP4k "Arts Fysica 2018")
-* [Arts Wiskunde 2018](https://www.youtube.com/watch?v=f2ATM_U4QU0 "Arts Wiskunde 2018")
-
-## Videos tandarts ##
-### 2022 ###
-* [Tandarts Chemie 2022](https://youtu.be/Mp4z40LV1rw "Tandarts Chemie 2022")
-* [Tandarts Fysica 2022](https://youtu.be/55GkDMIVlZE "Tandarts Fysica 2022")
-* [Tandarts Wiskunde 2022](https://youtu.be/To-IArnudRI "Tandarts Wiskunde 2022")
-
-### 2021 ###
-* [Tandarts Chemie 2021](https://www.youtube.com/watch?v=FRV_-VGbKcE "Tandarts Chemie 2021")
-* [Tandarts Fysica 2021](https://youtu.be/DZ5E_P6j3SI "Tandarts Fysica 2021")
-* [Tandarts Wiskunde 2021](https://www.youtube.com/watch?v=FqLXDuOzJTY "Tandarts Wiskunde 2021")
-
-### 2020 ###
-* [Tandarts Chemie 2020](https://www.youtube.com/watch?v=wgCUy-gBJUI "Tandarts Chemie 2020")
-* [Tandarts Fysica 2020](https://www.youtube.com/watch?v=uGw8VPeDD9Y "Tandarts Fysica 2020")
-* [Tandarts Wiskunde 2020](https://www.youtube.com/watch?v=vM7dFZBJLkM "Tandarts Wiskunde 2020")
-
-### 2019 ###
-* [Tandarts Chemie 2019](https://www.youtube.com/watch?v=oRuhYKW34sk "Tandarts Chemie 2019")
-* [Tandarts Fysica 2019](https://www.youtube.com/watch?v=F-LRhO-CYkM "Tandarts Fysica 2019")
-* [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=ro6chBim2ic "Tandarts Wiskunde 2019")
-
-### 2018 ###
-* [Tandarts Chemie 2018](https://www.youtube.com/watch?v=6wW8XPvIovE "Tandarts Chemie 2018")
-* [Tandarts Fysica 2018](https://www.youtube.com/watch?v=Cqq2Sb7VJZI "Tandarts Fysica 2018")
-* [Tandarts Wiskunde 2018](https://www.youtube.com/watch?v=bhtl4g6rasA "Tandarts Wiskunde 2018")
-
+* [Chemie] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TeSJBIxeJnZqHEzOfV289PS "Chemie")
+* [Fysica] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc_8gJAKXom-c6YL-qZ4pAE "Fysica")
+* [Wiskunde] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TcPGM_2DoA9b9miHUQm0dWg "Wiskunde")
 
 ## Videos arts + tandarts ##
 ### 2017 ###
-* [Chemie juli 2017](https://www.youtube.com/watch?v=4F-9UTg2vWw "Chemie juli 2017")
-* [Fysica juli 2017](https://www.youtube.com/watch?v=uaIr4tvtbVM "Fysica juli 2017")
-* [Wiskunde juli 2017](https://www.youtube.com/watch?v=JUHmZxdHHps "Wiskunde juli 2017")
-* [Chemie augustus 2017](https://www.youtube.com/watch?v=7vGccA7_Gxs "Chemie augustus 2017")
-* [Fysica augustus 2017](https://youtu.be/oeGDQ9aG71Y "Fysica augustus2017")
-* [Wiskunde augustus 2017](https://www.youtube.com/watch?v=kRM19Td-2IE "Wiskunde augustus 2017")
+* [Chemie juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TcVZnOyXxQS9OC3hN95tiWG "Chemie")
+* [Fysica juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Td7qX067JX6PI7BXtpcYujl "Fysica")
+* [Wiskunde juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TcZlDapbyfGdoTIRWZrpZuo "Wiskunde")
+* [Chemie augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TdDmlYx87NgNjnMNb2xjWfy "Chemie")
+* [Fysica augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Td_rL97LIKTcRCm4jvwd6C6 "Fysica")
+* [Wiskunde augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TdrCJU7Sdfnb-xnEUEwYN3i "Wiskunde")
 
 ### 2016 ###
-* [Chemie juli 2016](https://youtu.be/0yGMjbp8Rt4 "Chemie juli 2016")
-* [Fysica juli 2016](https://youtu.be/T2pd1LFuBoI "Fysica juli 2016")
-* [Wiskunde juli 2016](https://www.youtube.com/watch?v=BOmUlv_tuqE "Wiskunde juli 2016")
-* [Chemie augustus 2016](https://www.youtube.com/watch?v=eA0ra3uwLzM "Chemie augustus 2016")
-* [Fysica augustus 2016](https://youtu.be/y80pMb191Z8 "Fysica augustus 2016")
-* [Wiskunde augustus 2016](https://youtu.be/TrOIpspJjU4 "Wiskunde augustus 2016")
+* [Chemie juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tds1knigcgF8RszOm_aqkTA "Chemie")
+* [Fysica juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TeBuaS8TEClqXzEX16yQMsy "Fysica")
+* [Wiskunde juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TdDJ8mKMHB1jdKYefKJD89J "Wiskunde")
+* [Chemie augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TeUMuWdvntSQPXtvf1kuFop "Chemie")
+* [Fysica augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TeBuaS8TEClqXzEX16yQMsy "Fysica")
+* [Wiskunde augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc57e6aA0byQSN23WKpMxu0 "Wiskunde")
 
 ### 2015 ###
-* [Chemie juli 2015](https://www.youtube.com/watch?v=q48p19rWknk "Chemie juli 2015")
-* [Fysica juli 2015](https://youtu.be/l-TFv0L0mug "Fysica juli 2015")
-* [Wiskunde juli 2015](https://youtu.be/aD8kVFYSjpM "Wiskunde juli 2015")
-* [Chemie augustus 2015](https://www.youtube.com/watch?v=1dxz9dOOO8U "Chemie augustus 2015")
-* [Fysica augustus 2015](https://www.youtube.com/watch?v=9i1aAbqYIq4 "Fysica augustus 2015")
-* [Wiskunde augustus 2015](https://www.youtube.com/watch?v=z3hjDFC--zo "Wiskunde augustus 2015")
+* [Chemie juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TcL6K_i5H001PpI_nwSF9n6 "Chemie")
+* [Fysica juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TepAqDE1-Vgy8iFAFKw-zfT "Fysica")
+* [Wiskunde juli] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TczRFmFqsjQ8G0Ul2qKJ6QE "Wiskunde")
+* [Chemie augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TdtIHSivd8tgmJsavV0uoFC "Chemie")
+* [Fysica augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdpyp_pE5RYEtOmtf8Xo2sJ "Fysica")
+* [Wiskunde augustus] (https://www.youtube.com/playlist?list=PLGQD6QSQ70TffCL9hTTELugzBGVjRHEd- "Wiskunde")
 
 
 ## Officieel ##
-U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/examenvragen "toelatingsexamenartstandarts.be")
+U kunt de vragen vinden op: [toelatingsexamenartstandarts.be](https://www.toelatingsexamenartstandarts.be/ "toelatingsexamenartstandarts.be")
 
 ## Bekijk ook ##
 * [Geen tekort aan ingenieurs](https://justtheengineer.eu/nl/gtai "Geen tekort aan ingenieurs")
