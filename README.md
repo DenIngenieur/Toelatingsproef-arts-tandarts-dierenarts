@@ -44,7 +44,7 @@ Oh ja, 't is natuurlijk __gratis__.
 
 ### 2016 ###
 * Chemie juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tds1knigcgF8RszOm_aqkTA
-* Fysica juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdFpHg3Z1FkpW84L0pqa51_
+* Fysica juli: "https://www.youtube.com/playlist?list=PLGQD6QSQ70TdFpHg3Z1FkpW84L0pqa51_"
 * Wiskunde juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdDJ8mKMHB1jdKYefKJD89J
 * Chemie augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TeUMuWdvntSQPXtvf1kuFop
 * Fysica augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TeBuaS8TEClqXzEX16yQMsy
