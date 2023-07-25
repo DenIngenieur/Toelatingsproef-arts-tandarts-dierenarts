@@ -1,4 +1,4 @@
-# Toelatingsproef arts/tandarts #
+# Toelatingsproef arts, tandarts en dierenarts #
 
 Deze PDF's horen bij de respectievelijke videos op YouTube van mijn oplossingen voor het toelatingsexamen voor arts en tandarts.
 
@@ -6,82 +6,57 @@ Deze PDF's horen bij de respectievelijke videos op YouTube van mijn oplossingen 
 Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts/discussions/ "forum")__ beschikbaar voor het geval je vragen, opmerkingen of ideeën hebt, of gewoon eens je hart wil luchten. Je moet wel een GitHub account hebben om te kunnen deelnemen op het forum. Dat is sowieso een goed idee, want dat laat je toe al je belangrijk werk automatisch te backuppen en het voegt ook nog eens versiebeheer toe (wikipedia over [versiebeheer](https://nl.wikipedia.org/wiki/Versiebeheersysteem "versiebeheer")). Dus geen paniek als je pc of laptop opeens beslist om het op te geven, je belangrijk project is niet voorgoed verdwenen.
 Oh ja, 't is natuurlijk __gratis__. 
 
-## Videos arts ##
+
+## Videos vanaf 2018 - gescheiden proef ##
 ### 2022 ###
-* Chemie: https://youtu.be/APRzwRXdFyU
-* Fysica: https://youtu.be/Rf0My7q3G-A
-* Wiskunde: https://youtu.be/hqPL1VDSbo0
+* Chemie: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcta2w8Flqat6iR3x1fxJSy
+* Fysica: https://www.youtube.com/playlist?list=PLGQD6QSQ70Te0NyjqzWrPlRnFeYodzoqc
+* Wiskunde: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdCJu0q4NNdnliWiyReBJ0A
 
 ### 2021 ###
-* Chemie: https://youtu.be/S7RnowRCe7s
-* Fysica: https://www.youtube.com/watch?v=QIWT5ofcVJk
-* Wiskunde: https://www.youtube.com/watch?v=OVzYNE92neA
+* Chemie: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc8WXKc3f_3KCVOTx0rbpg7
+* Fysica: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdv4fXHXn3BKuwfMDTECuEP
+* Wiskunde: https://www.youtube.com/playlist?list=PLGQD6QSQ70TczqQO9ugozVffGpGDVv-oD
 
 ### 2020 ###
-* Chemie: https://www.youtube.com/watch?v=ZA_o2OAHDRg
-* Fysica: https://www.youtube.com/watch?v=c4ZOn-zDcZM
-* Wiskunde: https://www.youtube.com/watch?v=wcf-kvMvMtI
+* Chemie: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdbw01K_UC86o4XEMOBtfwv
+* Fysica: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc6o5ERxUv77lU0bTElO7-q
+* Wiskunde: https://www.youtube.com/playlist?list=PLGQD6QSQ70Te84wHyMpQUE7y4_GREO29A
 
 ### 2019 ###
-* Chemie: https://www.youtube.com/watch?v=BtiAuvGpcEk
-* Fysica: https://www.youtube.com/watch?v=eZY3kPjS_AA
-* Wiskunde: https://www.youtube.com/watch?v=JeTOu_F4HVo
+* Chemie: https://www.youtube.com/playlist?list=PLGQD6QSQ70Teo6P8dAoXSkQXTX2v8hjbj
+* Fysica: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tf5QHLsvINR2nkouwRZYqBr
+* Wiskunde: https://www.youtube.com/playlist?list=PLGQD6QSQ70Teh1Gkge9mJDmudJbmBAR9G
 
 ### 2018 ###
-* Chemie: https://www.youtube.com/watch?v=LeSFFfWP2yI
-* Fysica: https://www.youtube.com/watch?v=J0rB9I6UP4k
-* Wiskunde: https://www.youtube.com/watch?v=f2ATM_U4QU0
-
-## Videos tandarts ##
-### 2022 ###
-* Chemie: https://youtu.be/Mp4z40LV1rw
-* Fysica: https://youtu.be/55GkDMIVlZE
-* Wiskunde: https://youtu.be/To-IArnudRI
-
-### 2021 ###
-* Chemie: https://www.youtube.com/watch?v=FRV_-VGbKcE
-* Fysica: https://youtu.be/DZ5E_P6j3SI
-* Wiskunde: https://www.youtube.com/watch?v=FqLXDuOzJTY
-
-### 2020 ###
-* Chemie: https://www.youtube.com/watch?v=wgCUy-gBJUI
-* Fysica: https://www.youtube.com/watch?v=uGw8VPeDD9Y
-* Wiskunde: https://www.youtube.com/watch?v=vM7dFZBJLkM
-
-### 2019 ###
-* Chemie: https://www.youtube.com/watch?v=oRuhYKW34sk
-* Fysica: https://www.youtube.com/watch?v=F-LRhO-CYkM
-* Wiskunde: https://www.youtube.com/watch?v=ro6chBim2ic
-
-### 2018 ###
-* Chemie: https://www.youtube.com/watch?v=6wW8XPvIovE
-* Fysica: https://www.youtube.com/watch?v=Cqq2Sb7VJZI
-* Wiskunde: https://www.youtube.com/watch?v=bhtl4g6rasA
+* Chemie: https://www.youtube.com/playlist?list=PLGQD6QSQ70TeSJBIxeJnZqHEzOfV289PS
+* Fysica: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc_8gJAKXom-c6YL-qZ4pAE
+* Wiskunde: https://www.youtube.com/playlist?list=PLGQD6QSQ70TcPGM_2DoA9b9miHUQm0dWg
 
 ## Videos arts + tandarts ##
 ### 2017 ###
-* Chemie juli: https://www.youtube.com/watch?v=4F-9UTg2vWw
-* Fysica juli: https://www.youtube.com/watch?v=uaIr4tvtbVM
-* Wiskunde juli: https://www.youtube.com/watch?v=JUHmZxdHHps
-* Chemie augustus: https://www.youtube.com/watch?v=7vGccA7_Gxs
-* Fysica augustus: https://youtu.be/oeGDQ9aG71Y
-* Wiskunde augustus: https://www.youtube.com/watch?v=kRM19Td-2IE
+* Chemie juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TcVZnOyXxQS9OC3hN95tiWG
+* Fysica juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70Td7qX067JX6PI7BXtpcYujl
+* Wiskunde juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TcZlDapbyfGdoTIRWZrpZuo
+* Chemie augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdDmlYx87NgNjnMNb2xjWfy
+* Fysica augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70Td_rL97LIKTcRCm4jvwd6C6
+* Wiskunde augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdrCJU7Sdfnb-xnEUEwYN3i
 
 ### 2016 ###
-* Chemie juli: https://youtu.be/0yGMjbp8Rt4
-* Fysica juli: https://youtu.be/T2pd1LFuBoI
-* Wiskunde juli: https://www.youtube.com/watch?v=BOmUlv_tuqE
-* Chemie augustus: https://www.youtube.com/watch?v=eA0ra3uwLzM
-* Fysica augustus: https://youtu.be/y80pMb191Z8
-* Wiskunde augustus: https://youtu.be/TrOIpspJjU4
+* Chemie juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tds1knigcgF8RszOm_aqkTA
+* Fysica juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdFpHg3Z1FkpW84L0pqa51_
+* Wiskunde juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdDJ8mKMHB1jdKYefKJD89J
+* Chemie augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TeUMuWdvntSQPXtvf1kuFop
+* Fysica augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TeBuaS8TEClqXzEX16yQMsy
+* Wiskunde augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc57e6aA0byQSN23WKpMxu0
 
 ### 2015 ###
-* Chemie juli: https://www.youtube.com/watch?v=q48p19rWknk
-* Fysica juli: https://youtu.be/l-TFv0L0mug
-* Wiskunde juli: https://youtu.be/aD8kVFYSjpM
-* Chemie augustus: https://www.youtube.com/watch?v=1dxz9dOOO8U
-* Fysica augustus: https://www.youtube.com/watch?v=9i1aAbqYIq4
-* Wiskunde augustus: https://youtu.be/z3hjDFC--zo
+* Chemie juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TcL6K_i5H001PpI_nwSF9n6
+* Fysica juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TepAqDE1-Vgy8iFAFKw-zfT
+* Wiskunde juli: https://www.youtube.com/playlist?list=PLGQD6QSQ70TczRFmFqsjQ8G0Ul2qKJ6QE
+* Chemie augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TdtIHSivd8tgmJsavV0uoFC
+* Fysica augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdpyp_pE5RYEtOmtf8Xo2sJ
+* Wiskunde augustus: https://www.youtube.com/playlist?list=PLGQD6QSQ70TffCL9hTTELugzBGVjRHEd-
 
 
 ## Officieel ##
