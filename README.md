@@ -7,37 +7,37 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 Oh ja, 't is natuurlijk __gratis__. 
 
 ## Videos vanaf 2018 - gescheiden proef ##
-### 2023 arts, tandarts en dierenarts###
+### 2023 arts, tandarts en dierenarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcs7ji5caaBFvXQdfeazW2X "Chemie 2023")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tct_s9pQ5kQiMx6uIKlMTUD "Fysica 2023")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tfa8hEWUIn9KZxPOU8vCtyL "Wiskunde 2023")
 
-### 2022 arts en tandarts###
+### 2022 arts en tandarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcta2w8Flqat6iR3x1fxJSy "Chemie 2022")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Te0NyjqzWrPlRnFeYodzoqc "Fysica 2022")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70TdCJu0q4NNdnliWiyReBJ0A "Wiskunde 2022")
 
-### 2021 arts en tandarts###
+### 2021 arts en tandarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc8WXKc3f_3KCVOTx0rbpg7 "Chemie 2021")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdv4fXHXn3BKuwfMDTECuEP "Fysica 2021")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70TczqQO9ugozVffGpGDVv-oD "Wiskunde 2021")
 
-### 2020 arts en tandarts###
+### 2020 arts en tandarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tdbw01K_UC86o4XEMOBtfwv "Chemie 2020")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc6o5ERxUv77lU0bTElO7-q "Fysica 2020")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70Te84wHyMpQUE7y4_GREO29A "Wiskunde 2020")
 
-### 2019 arts en tandarts###
+### 2019 arts en tandarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Teo6P8dAoXSkQXTX2v8hjbj "Chemie 2019")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tf5QHLsvINR2nkouwRZYqBr "Fysica 2019")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70Teh1Gkge9mJDmudJbmBAR9G "Wiskunde 2019")
 
-### 2018 arts en tandarts###
+### 2018 arts en tandarts ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70TeSJBIxeJnZqHEzOfV289PS "Chemie 2018")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tc_8gJAKXom-c6YL-qZ4pAE "Fysica 2018")
 * [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70TcPGM_2DoA9b9miHUQm0dWg "Wiskunde 2018")
 
-## Videos arts + tandarts - zelfde examen##
+## Videos arts + tandarts - zelfde examen ##
 ### 2017 ###
 * [Chemie juli](https://www.youtube.com/playlist?list=PLGQD6QSQ70TcVZnOyXxQS9OC3hN95tiWG "Chemie juli 2017")
 * [Fysica juli](https://www.youtube.com/playlist?list=PLGQD6QSQ70Td7qX067JX6PI7BXtpcYujl "Fysica juli 2017")
