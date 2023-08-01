@@ -6,6 +6,11 @@ Er is nu ook een __[forum](https://github.com/DenIngenieur/Toelatingsproef-arts-
 
 
 ## Videos vanaf 2018 - gescheiden proef ##
+### 2023 ###
+* [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcs7ji5caaBFvXQdfeazW2X "Chemie 2023")
+* [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tct_s9pQ5kQiMx6uIKlMTUD "Fysica 2023")
+* [Wiskunde](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tfa8hEWUIn9KZxPOU8vCtyL "Wiskunde 2023")
+
 ### 2022 ###
 * [Chemie](https://www.youtube.com/playlist?list=PLGQD6QSQ70Tcta2w8Flqat6iR3x1fxJSy "Chemie 2022")
 * [Fysica](https://www.youtube.com/playlist?list=PLGQD6QSQ70Te0NyjqzWrPlRnFeYodzoqc "Fysica 2022")
