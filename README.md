@@ -2,6 +2,11 @@
 
 Deze [PDF's](https://github.com/DenIngenieur/Toelatingsproef-arts-tandarts-dierenarts) horen bij de respectievelijke videos op YouTube van mijn oplossingen voor het toelatingsexamen voor arts en tandarts, en sinds 2023 ook die van voor dierenearts.
 
+## Oefensessie tracker ##
+Een eenvoudige webapplicatie om je voortgang bij het oefenen van examenvragen bij te houden.
+Oorspronkelijk ontworpen voor studenten die zich voorbereiden op toelatingsexamens (bv. ingenieurswetenschappen) met ondersteuning voor vragenreeksen, statusregistratie (Goed / Fout / Blanco / Nog niet gezien), automatische herhalingsdata en import/export van je gegevens.
+link: <a href='https://deningenieur.github.io/oefensessie-tracker/" target="_blank">Oefensessie tracker</a>
+
 ## Videos ##
 Een lijst met alle video kun je vinden op [deningenieur.be](https://www.deningenieur.be/playlist-tatd "playlist TATD").
 
